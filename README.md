@@ -1,7 +1,9 @@
 # SIGEST - Sistema de Gestión Académica
-# _(Academic Management System)_
+_(Academic Management System)_
 
 Demo: https://rle-sigest.herokuapp.com/
+- Email: marcobotton@mail.com
+- Password: hola123
 
 # Components
 * Coming soon
