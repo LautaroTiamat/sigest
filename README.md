@@ -1,4 +1,5 @@
-# SIGEST - Sistema de Gestión Académica _(Academic Management System)_
+# SIGEST - Sistema de Gestión Académica
+# _(Academic Management System)_
 
 Demo: https://rle-sigest.herokuapp.com/
 
